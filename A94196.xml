@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good counsel with a seasonable warning to all the inhabitants of Wells in Somerset-shire and elsewhere Read and consider, and the Lord give you an understanding heart.</title>
+            <author>Sandilands, Robert, of Aberdeen.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94196</idno>
+            <idno type="STC">Wing S659</idno>
+            <idno type="STC">ESTC R232159</idno>
+            <idno type="EEBO-CITATION">99897671</idno>
+            <idno type="PROQUEST">99897671</idno>
+            <idno type="VID">137376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137376)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2519:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good counsel with a seasonable warning to all the inhabitants of Wells in Somerset-shire and elsewhere Read and consider, and the Lord give you an understanding heart.</title>
+                  <author>Sandilands, Robert, of Aberdeen.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Benjamin Clark in George-Yard in Lombard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Robert Sandilands.</note>
+                  <note>Dated at end: "... being the 31 of the 11th month, 1682.".</note>
+                  <note>Reproduction of original in the Friends House Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+               <term>Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:137376:1" rendition="simple:additions"/>
+            <head>GOOD COUNSEL WITH A Seaſonable Warning TO ALL THE INHABITANTS of <hi>WELLS</hi> in <hi>Somerſet-ſhire</hi> and elſewhere.</head>
+            <head>
+               <hi>Read</hi> and Conſider, and the Lord give you an underſtanding Heart.</head>
+            <p>THis day paſſing by your City, I was moved of the Lord God to come amongſt you, to proclaim the terrible, great and notable Day that's haſtening on apace upon this and other Nations: And ſince I came from you, I felt a concern upon my Spirit, to Communicate this and ſend unto you as Good Counſel; and which may prove (if duly regarded) a ſeaſonable warning both to Prieſts, Pro<g ref="char:EOLhyphen"/>feſſors, and Prophane, That you all may be humbled this day under the mighty hand of God, and unſeignedly Repent of the Evil of your ways, and turn therefrom. Oh haſten, haſten ſpeedily to meet the Lord in the way of his Righteous Judgments, by the which he is bringing down the haughty looks of proud Fleſh, abaſing that which is exalted, and raiſing up that which is of a low degree; hearken diligently to his Call, and be concerned to anſwer him, whilſt he cries unto you both inwardly and outwardly, to be Reformed from thoſe many groſs, abominable, unworthy practices you are found guilty of; for which the Good Spirit of the Lord ſtrives in you to be Redeemed; and becauſe of which, the weighty vengeance and fierce wrath of God is ready to break forth upon you: aed though he hath ſpared long, and may hold it off for a time, yet aſſuredly at laſt he will be provoked; and when it comes, then it's ſo much the heavier by how much the longer he hath waited to be Gracious; as its ſaid, <hi>Becauſe ſentence against an evil Work is not executed ſpeedily, therefore the Hearts of the Sons of Men are fully ſet in them to do Evil.</hi> Oh! I beſeech you in the tender love of God, conſider and follow theſe things now in time, that belongs to your Eternal welfare, leaſt they be hid from your Eyes; as it did befall that great City <hi>Jeruſalem,</hi> over which the Lord Jeſus wept, and ſaid, <hi>If thou hadſt known, even thou, at leaſt in this thy day,</hi> &amp;c. ſo they had their day of Gracious Viſitation; but becauſe they knew not the time thereof, ſo as to be gathered by him who often would have gathered them, even as a Hen doth gather her Chickens under her Wings, <hi>but they would not;</hi> and therefore that dreadful deſolation came upon them, as the Conſequence of their grievous Rebellion and continued Provocations.—Now obſerve; if you do not re<g ref="char:EOLhyphen"/>gard the Lord in his time of Love afforded to you, in which you are rendered capable to be Gathered by his Di<g ref="char:EOLhyphen"/>vine and Almighty Power, out of all the Vanities, Pollutions, Hypocriſies, Formalities, and Will-worſhips of the World, into Holineſs, and thoſe Virtues of true Chriſtianity. If you do not now remember the Lord, and heat his Voice, <hi>whilſt <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s called to day,</hi> I tell you of a certain truth, you may in your own time (when Diſtreſs, An<g ref="char:EOLhyphen"/>guiſh, Terrour, Sorrow, Wo and Miſery overtakes you) cry loudly in his Ears, and call earneſtly upon him, but not heard or regarded by him; as its ſaid concerning thoſe who hate the Good and love the Evil, <hi>If they cry unto the Lord he will not hear them,</hi> he will even <hi>hide his Face</hi> from them at that time, as they have behaved themſelves ill in their doings; ſee <hi>Micah 3. verſe</hi> 4. and read <hi>Prov. 1. 22, &amp;c. Becauſe I have called</hi> (ſaith Wiſ<g ref="char:EOLhyphen"/>dom) <hi>upon you ſimple ones, Fools and Scorners, but you refuſed, I have ſtretched out my Hand and no man regarded; but ye have ſet at nought all my Counſel, and would none of my Reproof,</hi> (mind now what follows) <hi>I alſo will laugh at your calamity, I will mock when your fear cometh,</hi> (how cometh) <hi>even as deſolation, and your deſtruction as a Whirlwind,</hi> you know that's a ſudden thing, <hi>Then ſhall they call upon me but I will not anſwer,</hi> &amp;c. and the ſad concluſion of all is, <hi>Therefore ſhall they Eat the fruit of their own way, and be filled with their own devices; for the turning away of the ſimple ſhall ſlay them, and the proſperity of Fools ſhall deſtroy them.</hi> Certainly ſuch as every one Sowes, of that muſt they Reap; wherefore all High and Low, Rich and Poor, Fear the great God, and give Glory to him; for the hour of his Judgment is come: and Worſhip him that made Heaven and Earth, and the Seas and Fountains of Water, whoſe overflowing ſcourge, and dreadful Beaſom of his ſore diſpleaſure, muſt paſs over, and ſweep away this Prophane, Atheiſtical, Hypocritical, and Hard-hearted, Perſecuting, Perverſe and Adulterous Generation of Vipers, whoſe Cup now is almoſt quite filled up with all manner of Abominations, and the Conſumption determined on the Earth muſt be accompliſhed; therefore be not Mockers leaſt your Bands be made ſtrong; and ſurely the terrible overthrow of the powers of Death and Darkneſs is begun, and will more and more appear; ſo that all muſt be overturned and brought to an utter deſolation, which oppoſeth (either through the Rage, Malice and Envy of the Devil, that Grand Perſecutor, or of the Violence and Cru<g ref="char:EOLhyphen"/>elty of his wicked Agents, who oppreſs the Lords faithful innocent People) and would ſtop the Glorious ad<g ref="char:EOLhyphen"/>vancement of the peaceable Kingdom of holy Jeſus, and of his Righteous Government, whoſe right it is to Raign and Rule ſpiritually in the Hearts of the Sons and Daughters of Men; and of the increaſe of whoſe Peace and Dominion there ſhall be no End: Which is over all oppoſition prevailing, and ſhall more and more, and that univerſally, (in the Lords due time) be exalted, to the great ſhame and confuſion of all his Enemies, to the unſpeakable Joy and ſatisfaction of the Righteous, and to the Glory, Praiſe, Honour and Renown of his worthy. Name for ever and evermore, <hi>Amen.</hi>
+            </p>
+            <p>This is the Word of the Lord God Everlaſting, whether you will hear or forbear, from his Servant, and your ſincere well-wiſher, and who heartily prays for the good of all</p>
+            <closer>
+               <signed>Robert Sandilands.</signed>
+               <dateline>
+                  <hi>Streat</hi> near <hi>Glaſtonbury,</hi> being <date>the 31 of the <hi>11th</hi> month, 1682.</date>
+               </dateline>
+               <hi>For in the hand of the Lord there is a Cup, and the Wine is Red, it is full of mixture, and he poureth cut of the ſame, but the dregs thereof all the wicked of the Earth ſhall wring them out and drink them.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Benjamin Clark <hi>in</hi> George-Yard <hi>in</hi> Lombard-ſtreet, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
